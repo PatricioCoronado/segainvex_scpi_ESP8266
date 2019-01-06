@@ -1,0 +1,24 @@
+####################################################
+# Datatypes	(KEYWORD1)
+####################################################
+tipoNivel	KEYWORD1
+tipoCodigoError	KEYWORD1
+####################################################
+# Functions	(KEYWORD2)
+####################################################
+errorscpi	KEYWORD2
+scpi	KEYWORD2
+cambia_variable_int_del_sistema	KEYWORD2
+cambia_variable_int_discreta_del_sistema	KEYWORD2
+cambia_variable_int_discreta_del_sistema	KEYWORD2
+cambia_variable_bool_del_sistema	KEYWORD2
+cambia_variable_double_del_sistema	KEYWORD2	 
+####################################################
+# Functions	(KEYWORD2)
+####################################################
+BUFFCOM_SIZE	KEYWORD3
+LONG_SCPI	KEYWORD3
+MAXERR   	KEYWORD3
+SERIAL1		KEYWORD3
+SERIALUSB		KEYWORD3
+####################################################
