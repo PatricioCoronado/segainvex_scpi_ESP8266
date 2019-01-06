@@ -1,0 +1,197 @@
+[Workspace Header]
+Version = 1201
+Pathname Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Pathname Line0002 = "66_SCPI_test/CVI/PlantillaCVI.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2012"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2012"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "PlantillaCVI.prj"
+Project 0001 Folder User Interface Files Collapsed = True
+Drag Bar Left = 390
+Window Top = 250
+Window Left = 122
+Window Bottom = 752
+Window Right = 912
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 6
+Window Confinement Region Enabled = True
+MainColumnWidth = 373
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1201
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Path Line0002 = "66_SCPI_test/CVI/PlantillaCVI.uir"
+File Type = "User Interface Resource"
+Disk Date = 3591534704
+In Projects = "1,"
+Window Top = 64
+Window Left = 18
+Window Height = 291
+Window Width = 780
+Window Z-Order = 6
+
+[File 0002]
+Path Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Path Line0002 = "66_SCPI_test/CVI/PanelesPuertoCom.uir"
+File Type = "User Interface Resource"
+Disk Date = 3615115910
+In Projects = "1,"
+Window Top = 64
+Window Left = 18
+Window Height = 291
+Window Width = 780
+Window Z-Order = 5
+
+[File 0003]
+Path Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Path Line0002 = "66_SCPI_test/CVI/PuertoCOM.c"
+File Type = "CSource"
+Disk Date = 3591535930
+In Projects = "1,"
+Window Top = 64
+Window Left = 18
+Window Z-Order = 2
+Source Window State = "1,314,314,314,21,40,40,0,0,60,0,0,0,0,0,13,0,0,0,0,291,780,1,0,"
+
+[File 0004]
+Path Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Path Line0002 = "66_SCPI_test/CVI/PuertoCOM.h"
+File Type = "Include"
+Disk Date = 3591536198
+In Projects = ""
+Window Top = 64
+Window Left = 18
+Window Z-Order = 4
+Source Window State = "1,79,79,79,12,26,12,0,3,60,0,0,0,0,0,13,72,0,79,26,291,780,1,0,"
+
+[File 0005]
+Path Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Path Line0002 = "66_SCPI_test/CVI/listaPaco.c"
+File Type = "CSource"
+Disk Date = 3574077566
+In Projects = "1,"
+Window Z-Order = 1
+Source Window State = "1,0,0,0,0,0,0,0,0,123,0,0,0,0,0,46,0,0,0,0,400,600,0,0,"
+
+[File 0006]
+Path Line0001 = "/c/Users/PC.5014885/AppData/Roaming/SPB_16.6/Documents/PlatformIO/Projects/ESP82"
+Path Line0002 = "66_SCPI_test/CVI/PlantillaCVI.c"
+File Type = "CSource"
+Disk Date = 3629616935
+In Projects = "1,"
+Window Top = 219
+Window Left = 98
+Window Z-Order = 3
+Source Window State = "1,206,207,206,8,58,8,0,0,80,0,0,0,0,0,27,0,0,0,0,579,1020,1,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = "dir"
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = "dir"
+Working Directory = ""
+
