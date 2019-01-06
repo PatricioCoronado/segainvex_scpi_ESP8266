@@ -9,7 +9,7 @@
  */
 #include <Arduino.h>
 //....... SECCION PARA INCLUIR SEGAINVEX_SCPI_ESP8266...........................
-#include "segainvex_scpi_ESP8266.h" // funciones y variables de segainvex_scpi_ESP8266
+#include <segainvex_scpi_ESP8266.h> // funciones y variables de segainvex_scpi_ESP8266
 //Submenú
  tipoNivel SUBMENU1[] = //Array de estructuras tipo Nivel
 {
