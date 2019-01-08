@@ -8,8 +8,7 @@ parámetros.
 Se incluye software de Pc escrito con LabWindowsCVI de "National Instruments".
 
 Este software tiene como finalidad probar la librería segainvex_scpi_ESP8266.
-Para que funcione tiene que estar instalada el "run time engine" de National
-Instruments para LabWindowsCVI.
+Para que funcione tiene que estar instalada el "runtime engine" de LabWindows™/CVI. 
 
 http://www.ni.com/es-es/support/downloads/software-products/download.labwindows-cvi-runtime.html
 
